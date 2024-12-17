@@ -1,0 +1,64 @@
+body {
+    font-family: Calibri, sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+    border: 5px double;
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    height: 900px;
+    position: absolute;
+}
+
+
+.topText {
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    padding: 5%;
+    letter-spacing: 5px;
+
+}
+.mainText  {
+    font-family: Radley, sans-serif;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+#mainThe {
+    font-weight: lighter;
+}
+
+#mainScribe {
+    font-size: 90px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+}
+#mainMethod {
+    font-weight: 500;
+}
+
+.image {
+    width: 420px;
+}
+
+.botText {
+    font-size: 28px;
+    font-weight: normal;
+    letter-spacing: 5px;
+    color: #4e4b4b;
+    padding-top: 5%;
+}
+
+#botAND {
+    font-size: 16px;
+}
